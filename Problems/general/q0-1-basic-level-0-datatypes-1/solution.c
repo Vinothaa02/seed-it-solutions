@@ -1,0 +1,17 @@
+/**
+ * Problem: Q0.1 - Basic_level_0_Datatypes_1
+ * Category: General
+ * Difficulty: Medium
+ * Platform: SEED-IT Platform (https://seed-it.com)
+ * Date Solved: 2026-09-22
+ * Language: c
+ * Test Cases: 30 / 30 Passed (100%)
+ */
+
+#include <stdio.h>
+
+int main() {
+    // your code goes here
+    printf("Let's learn 'C' together with \"SEED\" Team");
+    return 0;
+}
